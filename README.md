@@ -11,3 +11,10 @@ Leveraging OpenCV and the YOLOv5 model, this application detects various groceri
 - Extraction of expiry dates.
 - Capability to identify multiple groceries within a single frame.
 - Facilitates efficient billing for your cart.
+
+## Technologies Used
+
+- **OpenCV**: For computer vision tasks like capturing images and processing.
+- **machineLearninr**: To build the Yolov5 model.
+- **Python**: Backend logic for detection.
+- **Pytesseract**:To extract text from images for verifying expiry dates and labels.
