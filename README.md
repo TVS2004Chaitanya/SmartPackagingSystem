@@ -20,5 +20,5 @@ Leveraging OpenCV and the YOLOv5 model, this application detects various groceri
 - **Pytesseract**:To extract text from images for verifying expiry dates and labels.
 
 ## Demo Video 
-- To wathc the demo video<a href="https://youtu.be/hIIhpfKbz30?si=80V6tzmpDFPlJkrU">Cick here</a>
+- To wathc the demo video<a href="https://youtu.be/hIIhpfKbz30?si=80V6tzmpDFPlJkrU"> Click here</a>
 
