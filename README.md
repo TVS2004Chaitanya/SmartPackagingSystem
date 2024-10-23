@@ -22,4 +22,4 @@ Leveraging OpenCV and the YOLOv5 model, this application detects various groceri
 ## Demo Video 
 - To watch the demo video <a href="https://youtu.be/hIIhpfKbz30?si=80V6tzmpDFPlJkrU">Click here</a>
 
-I apologize for the inconvenience, but due to size limitations, I'm unable to upload all the folders to GitHub. Instead, you can access the folder through <a href="https://drive.google.com/drive/folders/1uopgk1DdS5GWrAhxDoldQbdgmw4QjnIf?usp=drive_link">this link>/a>
+I apologize for the inconvenience, but due to size limitations, I'm unable to upload all the folders to GitHub. Instead, you can access the folder through <a href="https://drive.google.com/drive/folders/1uopgk1DdS5GWrAhxDoldQbdgmw4QjnIf?usp=drive_link">this link</a>.
